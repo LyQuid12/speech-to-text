@@ -1,5 +1,6 @@
 [![](https://img.shields.io/badge/Powered%20By-Python-blue)](https://python.org)
 ![](https://img.shields.io/github/repo-size/LyQuid12/speech-to-text?color=light%20green&label=Repo%20Size)
+![](https://img.shields.io/github/languages/code-size/LyQuid12/speech-to-text?label=Code%20Size)
 [![](https://img.shields.io/github/license/LyQuid12/speech-to-text)](https://github.com/LyQuid12/speech-to-text/blob/dev/LICENSE)
 [![](https://img.shields.io/github/stars/LyQuid12/speech-to-text?color=gold&label=Stars)](https://github.com/LyQuid12/speech-to-text/stargazers)
 [![](https://img.shields.io/github/forks/LyQuid12/speech-to-text)](https://github.com/LyQuid12/speech-to-text/network/members)
