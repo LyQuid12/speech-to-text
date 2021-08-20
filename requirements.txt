@@ -1,3 +1,4 @@
 speechrecognition
 pyaudio
 pyttsx3
+googlesearch
